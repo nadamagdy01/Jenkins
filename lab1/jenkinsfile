@@ -1,0 +1,5 @@
+@library('sharelibrary')
+  stage('Demo'){
+      echo 'Hello World'
+      sayHello 'Nada'
+  }
